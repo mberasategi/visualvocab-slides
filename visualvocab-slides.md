@@ -27,7 +27,7 @@ Además de páginas, también podemos tener archivos o **documentos**, o _parcel
 
 ---
 
-![Páginas y documentos](pag-doc.png)
+![Páginas y documentos](images/pag-doc.png)
 
 ---
 
@@ -35,7 +35,7 @@ Las pilas de páginas o documentos se utilizan para indicar un grupo de elemento
 
 ---
 
-![Pilas de páginas y de documentos](pilas.png)
+![Pilas de páginas y de documentos](images/pilas.png)
 
 --- 
 
@@ -248,6 +248,6 @@ A diferencia de [otros tipos de áreas](#areas), se asocian con un resultado que
 
 --- 
 
-* Guías de referencia rápida
-* Ejemplo [MetaFilter](http://www.metafilter.com/)
+* Guías de referencia rápida: [cheatsheet](docs/garrett_ia_cheatsheet.pdf) y [quickref](docs/garrett_ia_quickref.pdf)
+* Ejemplo [MetaFilter](http://www.metafilter.com/), [IA de ejemplo](docs/metafilter_ia.pdf)
 * Aplicaciones online: [Gliffy](http://www.gliffy.com), [draw.io](http://draw.io)
